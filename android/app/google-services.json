@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220997150628",
+    "project_id": "routing-3a838",
+    "storage_bucket": "routing-3a838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220997150628:android:793f60abd506768403c331",
+        "android_client_info": {
+          "package_name": "com.example.routing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220997150628-mtv4penol733tarnel17hj2dq4ps2i19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPF3QjG-hbiV16EqU8359lgwIIVdN5C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220997150628-mtv4penol733tarnel17hj2dq4ps2i19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
